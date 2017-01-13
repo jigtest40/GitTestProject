@@ -1,2 +1,3 @@
-file 2 content 
-file 2 ext content
+file 2 content - Append
+file 2 ext content - Append 
+File 3 third line
